@@ -16,7 +16,7 @@
 ```
 git clone https://github.com/damit5/Subdomain_Gathering.git
 cd Subdomain_Gathering
-pip install requirement.txt
+pip install -r requirement.txt
 ```
 
 ## 使用
